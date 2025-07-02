@@ -1,2 +1,3 @@
-# Saleem-Demo
-This is my first Git repository
+# Student-Demo
+This is my first Git repository.
+Author-Muhammad-Saleem
